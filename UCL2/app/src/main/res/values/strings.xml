@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UCL</string>
+
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_club">Cari Club Favoritmu</string>
+
+    <string name="about_page">About Page</string>
+    <string name="nama">Ahmad Yusron</string>
+    <string name="email">yusron920@gmail.com</string>
+
+    <string name="photo">Photo</string>
+
+    <string name="profile">Profil</string>
+    <string name="detail">Detail Club</string>
+    <string name="kembali">Tombol Kembali</string>
+
+
+</resources>
